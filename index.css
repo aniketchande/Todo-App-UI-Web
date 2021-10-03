@@ -1,0 +1,131 @@
+.class1{
+    
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 200px;
+    margin-top: 150px;
+    margin-bottom: -39px;
+    
+}
+.class2{
+    color: gray;
+    font-size: 30px;
+    margin-left: 1119px;
+    /* margin-top: 30px; */
+    margin-bottom: 50px;;
+}
+.class3{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-evenly;
+    
+
+      
+}
+.class4{
+    border: 2px solid red;
+    border-radius: 20px;
+    height: 350px;
+    width: 240px;
+    color: red;
+    box-shadow: 8px 8px rgb(224, 219, 219);
+}
+.class5{
+    border: 2px solid red;
+    border-radius: 20px;
+    height: 350px;
+    width: 240px;
+    color: red;
+    box-shadow: 8px 8px rgb(224, 219, 219);
+
+}
+.class6{
+    border: 2px solid red;
+    border-radius: 20px;
+    height: 350px;
+    width: 240px;
+    color: red;
+    box-shadow: 8px 8px rgb(224, 219, 219);
+    
+}
+ .class7{
+    margin-top: 60px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+h1 {
+    margin-top: 30px;
+    margin-left: 50px;
+    position: relative;
+    left: 385px;
+    width: 50%; 
+    text-align: center; 
+    border-bottom: 3px solid grey; 
+    line-height: 0.1em;
+    margin: 10px 0 20px; 
+ } 
+ 
+ h1 span { 
+     background:#fff; 
+     padding:0 10px; 
+ }
+ .class8{
+    font-size: 36px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: grey;
+    margin-top: 60px;
+ }
+.class9{
+    border: 2px solid red;
+    border-radius: 20px;
+    height: 350px;
+    width: 368px;
+    color: red;
+    margin-left: 550px;
+    margin-top: 40px;
+    box-shadow: 8px 8px rgb(224, 219, 219);
+
+}
+.blur1{
+filter: blur(7px);
+
+}
+.addlist-additem{
+      border: 2px solid red;
+    background: white;
+    color: red;
+    border-radius: 20px;
+    width: 350px;
+    height: 180px;
+     z-index: 1; 
+    text-align: center;
+    padding: 15px;
+    font-size: 20px;
+    /* margin-top: -360px;
+    margin-left: 540px;  */
+    position: absolute; 
+    top: 245px;
+    left: 547px;
+   
+} 
+input{
+    border: 3px solid red;
+}
+.btn{
+    display: block;
+    width: 85px;
+    height: 25px;
+    background: red;
+    padding: 10px;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 27px;
+    color: white;
+    font-weight: bold;
+    line-height: 25px;
+    margin-top: 20px;
+    margin-left: 115px;
+}
